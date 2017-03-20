@@ -10,6 +10,7 @@
 ?>
 Something is wrong with the XAMPP installation :-(
          
+//Found the solution you just have to update xampp!
         
        
       

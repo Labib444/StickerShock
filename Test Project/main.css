@@ -1,0 +1,129 @@
+
+/*          eita shob producter style page                                */
+
+
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+
+
+
+/*                       navigation r style                      */
+
+.nav{
+	background: #cc0000; 
+	height: 50px;
+	text-align: center;
+}
+
+.nav a{
+	font: bold 20px tahoma; 
+	color:white; 
+	text-align: center; 
+	padding: 5px; 
+	display: inline-block; 
+}
+
+
+
+
+
+/*                             head r style                     */
+
+.test{
+	background: #FF8000; 
+	height: 250px;
+	width: 100%;
+}
+
+.word{
+	font: bold 35px tahoma;
+	color: white;
+	margin-left: 50px;
+	padding: 15px;  
+
+}
+
+.btn{
+	height: 50px; 
+	width: 150px;
+	margin-top: 50px;
+	margin-left: 50px;
+	font: bold 15px tahoma;
+}
+
+
+.btn-warning{
+	height: 50px; 
+	width: 150px;
+	margin-top: 50px;
+	margin-left: 50px;
+	font: bold 15px tahoma;
+}
+
+
+
+
+
+
+/*                     image gallery r style                 */
+
+.container-fluid{
+	background: #dfbf9f;
+}
+
+
+.row{
+	padding: 20px;
+	margin-left: 30px; 
+	margin-right: 20px;
+}
+
+
+.col-md-4{
+	padding-bottom: 20px;
+}
+
+
+.img-thumbnail{
+	height: 250px; 
+	width: 300px;
+}
+
+
+.img-thumbnail img:hover{
+	opacity: .4;
+}
+
+
+
+
+
+/*                    pagination r style                  */
+
+.pagination{
+    background: white; 
+	height: 50px;
+}
+
+.pagination a{
+    font: bold 20px tahoma; 
+	color: blue; 
+	text-align: center; 
+	padding: 5px; 
+	display:inline-block;
+}
+
+
+
+
+/*                          footer r style                  */
+
+.footer{
+	height: 150px;
+	width: 100%;
+	background: #e6e6e6; 
+}
